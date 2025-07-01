@@ -81,7 +81,7 @@
 
 <!-- Map -->
 <div class="position-relative">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.747342634054!2d79.12102477408716!3d10.753945259609958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baab8dad99988f3%3A0xf18d7917e04021c5!2sRANI%20CONSTRUCTION!5e0!3m2!1sen!2sin!4v1708501318801!5m2!1sen!2sin" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.747342634054!2d79.12102477408716!3d10.753945259609958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baab8dad99988f3%3A0xf18d7917e04021c5!2sRANI%20CONSTRUCTION!5e0!3m2!1sen!2sin!4v1708501318801!5m2!1sen!2sin" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <!-- Map -->
 
@@ -96,7 +96,7 @@
                <span class="pt-section-sub-title">Get Quote</span>
                <h2 class="pt-section-title">Request A Quote</h2>
             </div>
-            <form class="quote-from" method="post" action="mail.php" autocomplete="off">
+            <form class="quote-from" method="post" action="whatsapp.php" autocomplete="off">
                <div class="row">
                   <div class="col-md-6">
                      <div class="form-group">
@@ -118,9 +118,12 @@
                         <textarea class="form-control" name="message" id="exampleFormControlTextarea1" rows="6" placeholder="Enter your message"></textarea>
                      </div>
                   </div>
-                  <div class="col-md-12">
-                     <div class="form-group">
-                        <button class=" btn btn-primary pt-bg-primary text-white border-0" type="submit">Send
+                  <div class="col-md-12 row">
+                     <div class="col-md-6 container-captcha">
+                        <div class="cf-turnstile" data-sitekey="0x4AAAAAABdSOyh-hnPYo8Wx"></div>
+                     </div>
+                     <div class="col-md-6 d-flex justify-content-md-end form-group">
+                        <button class="btn btn-primary pt-bg-primary text-white border-0" type="submit">Send
                            Message</button>
                      </div>
                   </div>

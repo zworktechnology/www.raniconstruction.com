@@ -135,6 +135,11 @@
 <script src="js/rev-custom.js"></script>
 <!-- js custom-->
 <script src="js/custom.js"></script>
+
+<!-- recaptcha-->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+</script>
+
 </body>
 
 </html>

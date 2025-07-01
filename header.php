@@ -77,10 +77,10 @@
          </div>
          <div class="pt-sidebar-social">
             <ul>
-               <li><a href="https://www.facebook.com/rani.construction" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-               <li><a href="https://www.instagram.com/rani_construction/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+               <li><a href="https://www.facebook.com/raniconstruction.official/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+               <li><a href="https://www.instagram.com/raniconstruction.official/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                <!-- <li><a href="https://www.threads.net/@rani_construction" target="_blank"><i class="fab fa-threads"></i></a></li> -->
-               <li><a href="https://www.linkedin.com/company/rani-construction/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+               <li><a href="https://www.linkedin.com/company/raniconstruction-official/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
                <li><a href="https://www.youtube.com/@rani-construction" target="_blank"><i class="fab fa-youtube"></i></a></li>
             </ul>
          </div>
